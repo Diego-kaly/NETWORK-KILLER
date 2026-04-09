@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.pcap
+*.cap
+/sdcard/
+/data/
+.vscode/
+.idea/
+*.swp
+*.bak
